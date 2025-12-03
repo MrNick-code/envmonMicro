@@ -2,4 +2,4 @@
 
 Por Danton Antônio e Matheus Capelin.
 
-Acesse os dados através de: 
+Acesse os dados via o arquivo .py
